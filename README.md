@@ -25,6 +25,8 @@ A simple AR smart glasses prototype built by the [committee name] tech committee
 
 Full pin connections are in [`docs/wiring.md`](docs/wiring.md).
 
+Photos and details for each part are in the [hardware Google Doc](https://docs.google.com/document/d/1PpKNPCbq7jO1xO4vZ0nnfvGLMH5qfa6Nv8LKFtT9K3g/edit?tab=t.0).
+
 ## Project Structure
 
 ```
