@@ -1,6 +1,6 @@
 # Smart Glasses
 
-A simple AR smart glasses prototype built by the [committee name] tech committee. Instead of building glasses from scratch, we mount small hardware onto a regular pair of glasses: a heads-up display, motion sensing, and audio in and out, all powered by a Raspberry Pi Zero 2 W.
+A simple AR smart glasses prototype built by the Technological Advancements Committee. Instead of building glasses from scratch, we mount small hardware onto a regular pair of glasses: a heads-up display, motion sensing, and audio in and out, all powered by a Raspberry Pi Zero 2 W.
 
 ## Features (planned)
 
